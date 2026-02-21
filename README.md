@@ -1,3 +1,4 @@
+>### English below :arrow_down:
 # Skrypt do badania drożności sieciowej
 Skrypt w języku PowerShell został stworzony w celu sprawdzania dostępności portów na komputerze lokalnym lub zdalnym oraz weryfikowania, czy na danych portach przepływają dane.
 
@@ -10,7 +11,7 @@ Skrypt w języku PowerShell został stworzony w celu sprawdzania dostępności p
 
 <br/>
 
->### English below :arrow_down:
+
 
 <br/>
 
