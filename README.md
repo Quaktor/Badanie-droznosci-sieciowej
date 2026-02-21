@@ -7,3 +7,19 @@ Skrypt w języku PowerShell został stworzony w celu sprawdzania dostępności p
 
 > [!NOTE]
 > Skrypt został stworzony dla **Centrum Usług Informatycznych w Białymstoku** przez **Paulinę Gołąbiewska oraz Justynę Maksimowicz**.
+
+<br/>
+
+>### English below :arrow_down:
+
+<br/>
+
+# Network Connectivity Testing Script
+This PowerShell script was developed to check port availability on local or remote computers and verify whether data is actively flowing through those ports.
+
+### Currently, there are 2 versions of the script:
+* Terminal (CLI)
+* Graphical User Interface (GUI)
+
+> [!NOTE]
+> This script was created for the Center for Information Technology Services in Białystok (Centrum Usług Informatycznych w Białymstoku) by **Paulina Gołąbiewska and Justyna Maksimowicz**.
